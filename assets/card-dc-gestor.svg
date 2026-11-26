@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="250" viewBox="0 0 1400 250" role="img" aria-labelledby="title desc">
+  <title id="title">DC Gestor</title>
+  <desc id="desc">Projeto pessoal para organizar orçamentos, notas fiscais e anotações, com foco em celular.</desc>
+  <rect x="1" y="1" width="1398" height="248" rx="26" fill="#101c36" stroke="#2b3a57" stroke-width="2"/>
+  <path d="M2 28a27 27 0 0 1 26-27v248a27 27 0 0 1-26-27Z" fill="#f04b20"/>
+  <text x="66" y="62" fill="#ffbd2e" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="3">PROJETO 02  /  PROJETO PESSOAL</text>
+  <text x="66" y="122" fill="#f4f6fa" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="700">DC Gestor</text>
+  <text x="66" y="160" fill="#c8d1e0" font-family="Arial,Helvetica,sans-serif" font-size="20">Orçamentos, notas fiscais e anotações em uma experiência pensada para celular.</text>
+  <text x="66" y="189" fill="#c8d1e0" font-family="Arial,Helvetica,sans-serif" font-size="20">PWA com sincronização com banco de dados.</text>
+  <rect x="66" y="202" width="330" height="34" rx="17" fill="#222f49"/>
+  <text x="231" y="225" text-anchor="middle" fill="#f3ca60" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="1">PWA  ·  SINCRONIZAÇÃO</text>
+  <rect x="1300" y="82" width="45" height="83" rx="10" fill="none" stroke="#f4f6fa" stroke-width="4"/>
+  <path d="M1312 96h21M1312 109h21M1312 122h13M1312 145h21" stroke="#ffbd2e" stroke-width="4" stroke-linecap="round"/>
+</svg>
