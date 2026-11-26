@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="44" viewBox="0 0 150 44" role="img" aria-label="Abrir site">
+  <rect x="1" y="1" width="148" height="42" rx="21" fill="#ffbd2e"/>
+  <text x="18" y="27" fill="#101c36" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700">Abrir site</text>
+  <path d="M116 28V17h11M127 17l-13 13" fill="none" stroke="#101c36" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

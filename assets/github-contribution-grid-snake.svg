@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="245" viewBox="0 0 1320 245" role="img" aria-labelledby="title desc">
+  <title id="title">Snake Contribution</title>
+  <desc id="desc">Prévia da animação de contribuições, atualizada pelo workflow do perfil.</desc>
+  <defs>
+    <pattern id="cells" width="19" height="19" patternUnits="userSpaceOnUse"><rect width="13" height="13" rx="3" fill="#d8dee8"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="1318" height="243" rx="26" fill="#f6f8fa" stroke="#d8dee8" stroke-width="2"/>
+  <text x="38" y="45" fill="#101c36" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="2">CONTRIBUTION SNAKE</text>
+  <text x="38" y="72" fill="#52627b" font-family="Arial,Helvetica,sans-serif" font-size="16">A animação é atualizada pelo workflow do perfil.</text>
+  <rect x="38" y="95" width="1244" height="133" fill="url(#cells)"/>
+  <path d="M238 124h76v19h76v19h76v-38h76v-19h76v19h76v19h76v-19h76v-19h76v19h76v19h76" fill="none" stroke="#e5a91c" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="1074" cy="143" r="10" fill="#f04b20"/>
+  <circle cx="1077" cy="140" r="1.8" fill="#fff"/>
+</svg>
